@@ -183,6 +183,10 @@
       }
     },
     {
+      "path": "ca-araliadiol-regulatory-inci-trust-study_paper.pdf",
+      "description": "Double-column academic research whitepaper (PDF) detailing methodology, statistical cross-tabs, and descending INCI analysis for Araliadiol (Canada)."
+    },
+    {
       "path": "ca-araliadiol-regulatory-inci-trust-study_paper.tex",
       "description": "Complete LaTeX source code for the double-column research paper with structured tables and official benchmark DOI citations (10.34740/kaggle/dsv/22383536 & 10.57967/hf/11688)."
     },
@@ -356,6 +360,10 @@
           "type": "string"
         }
       ]
+    },
+    {
+      "name": "ca-araliadiol-regulatory-inci-trust-study_paper.pdf",
+      "description": "Double-column academic research whitepaper (PDF) detailing methodology, statistical cross-tabs, and descending INCI analysis for Araliadiol (Canada)."
     },
     {
       "name": "ca-araliadiol-regulatory-inci-trust-study_paper.tex",
